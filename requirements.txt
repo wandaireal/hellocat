@@ -1,0 +1,6 @@
+Flask==2.3.2
+Flask-RESTful==0.3.10
+requests==2.31.0
+geoip2==4.7.0
+redis==4.6.0
+gunicorn==20.1.0
